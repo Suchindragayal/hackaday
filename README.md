@@ -12,6 +12,7 @@ this folder contains all the materials from SLIIT hackaday workshop
 ### bitcoin
 ### kali hacking
 ### metagoofil
+### Analyzing Deleted JPEGs
 
 
 
