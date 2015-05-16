@@ -10,6 +10,8 @@ this folder contains all the materials from SLIIT hackaday workshop
 ### dark sites
 ### IRC
 ### bitcoin
+### kali hacking
+
 
 
 
